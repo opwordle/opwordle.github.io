@@ -1,0 +1,15 @@
+export const WORDS = [
+  'kuina',
+  'jambe',
+  'enies',
+  'camie',
+  'merry',
+  'saulo',
+  'kaido',
+  'mushi',
+  'vergo',
+  'chuji',
+  'laugh',
+  'moria',
+  'logue',
+]
